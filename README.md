@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhia.djobbi@gmail.com**
 
-- ⚡ Fun fact **If it works... don't touch it!**
+- ⚡ Fun fact "**If it works... don't touch it!**"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/dhia-djobbi/" target="_blank">
