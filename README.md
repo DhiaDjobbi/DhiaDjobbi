@@ -10,13 +10,12 @@
 - 📫 How to reach me **dhia.djobbi@gmail.com**
 
 - ⚡ Fun fact **If it works... don't touch it!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/dhia-djobbi/" target="_blank">
         <img
             align="center"
-            src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"
+            src="https://image.flaticon.com/icons/png/512/174/174857.png"
             alt="Linkedin"
             height="30"
             width="30"
@@ -25,7 +24,7 @@
     <a href="https://www.facebook.com/Dhia.Magic/" target="_blank">
         <img
             align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+            src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png"
             alt="Facebook"
             height="30"
             width="30"
