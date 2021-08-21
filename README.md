@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **dhia.djobbi@gmail.com**
 
-- 📄 This is my Portfolio: <a href="https://dhia-djobbi.herokuapp.com" target="_blank">https://dhia-djobbi.herokuapp.com</a>
-
+- 📄 This is my Portfolio: **https://dhia-djobbi.herokuapp.com**
 - ⚡ Fun fact "**If it works... don't touch it!**"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
