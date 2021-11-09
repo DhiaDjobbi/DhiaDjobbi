@@ -3,7 +3,7 @@
 
 - 💻 I mainly use **Symfony 5** and **ReactJS**
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Express JS** ,  **Redux-Toolkit**
 
 - 💬 Ask me about **PHP, MySQL, Symfony, ReactJS**
 
