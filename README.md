@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhia Djobbi</h1>
 <h3 align="center">A Full Stack Web Developer from Tunisia</h3>
 
-- 💻 I mainly use **Symfony 5** and **ReactJS**
+- 💻 I mainly use **Node js** and **ReactJS** I also have a good experience with Symfony 5 (PHP framework)
 
-- 🌱 I’m currently learning **Express JS** ,  **Redux-Toolkit**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **PHP, MySQL, Symfony, ReactJS**
+- 💬 Ask me about **PHP, MySQL, Symfony, ReactJS, Javascript, NodeJS, MongoDB**
 
 - 📫 How to reach me **dhia.djobbi@gmail.com**
 
